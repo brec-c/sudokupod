@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Sudokupod</title>
 </svelte:head>
 
 <section>
