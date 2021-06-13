@@ -1,3 +1,10 @@
+# SudokuPod
+
+Figuring out GitPod.io by building something. Also, because learning only one thing is boooooorrring am using
+SvelteKit for the first time.
+
+Below is the original README content from the sveltekit quick start.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
